@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Alterar o nome</title>
+
+<meta charset="utf-8">
+
+</head>
+
+<header>
+
+<h1>Natação</h1>
+
+<img src=“/home/escola/Brenda/natação).jpeg" alt=“natação).jpeg" height="100" width="50">
+
+<figcaption>A natação é um dos esportes mais completos por movimentar grande parte dos músculos e articulações do corpo.</figcaption>
+
+</header>
+
+<body>
+
+<h1>Benefícios da prática de natação.</h1>
+
+<figure>
+
+<img src="/home/escola/Brenda/musculos.jpeg" alt=“músculos jpeg" height=“300" width=“300">
+
+<figcaption>Vários músculos são trabalhados na natação, e o maior benefício é que são trabalhados de maneira equilibrada</figcaption>
+
+<p>
+
+Outros benefícios da natação são o melhoramento da coordenação motora, ajuda nas tensões e lesões musculares, aumento da imunidade e condicionamento físico.
+
+</p>
+
+</figure>
+
+</body>
+
+</html>
+
 
